@@ -9,7 +9,8 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class CbsserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CbsserviceApplication.class, args);
+		SpringApplication.run(CbsserviceApplication.class, args);//run
+		
 	}
 
 }
